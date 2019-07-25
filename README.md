@@ -13,12 +13,12 @@ Data source:
 
 Nissen SE and Wolski K (2010) Rosiglitazone revisited: an updated meta-analysis of risk for myocardial infarction and cardiovascular mortality. *Archives of internal medicine*. 170(14):1191-1201.
 
-This code is to fit meta-analysis models (frequentist and Bayesian) to the rosiglitazone data.
-This code provides 15 log odds ratio (LORs), 13 log relative risks (LRRs), and 17 risk differences estimates.
+MetaAnalysis_Rosiglitazone.R fits meta-analysis models (frequentist and Bayesian) to the rosiglitazone data.
+It provides 15 log odds ratio (LORs), 13 log relative risks (LRRs), and 17 risk differences estimates.
 Bayesian models are fitted using rstan. Stan needs to be installed.
 For Bayesian model comparison, we estimate Watanabe-Akaike or widely applicable information criterion (WAIC).
 
-This code produces 4 files:
+MetaAnalysis_Rosiglitazone.R produces 4 files:
 
 1. LOR, LRR, RD estimates (.csv)
 2. WAIC.txt
