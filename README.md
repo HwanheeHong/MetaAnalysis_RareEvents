@@ -19,7 +19,8 @@ Bayesian models are fitted using rstan. Stan needs to be installed.
 For Bayesian model comparison, we estimate Watanabe-Akaike or widely applicable information criterion (WAIC).
 
 This code produces 4 files:
-    1. LOR, LRR, RD estimates (.csv)
-    2. WAIC.txt
-    3. Bayesian model results from Stan (.txt)
-    4. Bayesian model diagnostic plots (.pdf)
+
+1. LOR, LRR, RD estimates (.csv)
+2. WAIC.txt
+3. Bayesian model results from Stan (.txt)
+4. Bayesian model diagnostic plots (.pdf)
