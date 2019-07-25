@@ -5,11 +5,11 @@ R code to run meta-analysis with binary (rare) events
 
 Analysis of rosiglitazone data
 
-* Related paper
+Related paper:
 
 Hwanhee Hong, Chenguang Wang, and Gary L. Rosner (2019+) Meta-Analysis of Rare Adverse Events in Randomized Clinical Trials: Bayesian and Frequentist Methods  
 
-* Data source
+Data source:
 
 Nissen SE and Wolski K (2010) Rosiglitazone revisited: an updated meta-analysis of risk for myocardial infarction and cardiovascular mortality. *Archives of internal medicine*. 170(14):1191-1201.
 
