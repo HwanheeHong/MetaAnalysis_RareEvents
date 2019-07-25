@@ -1,4 +1,4 @@
-# MetaAnalysisRareEvents
+# MetaAnalysis_RareEvents
 Hwanhee Hong (hwanhee.hong@duke.edu)
 
 R code to run meta-analysis with binary (rare) events
